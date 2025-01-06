@@ -9,7 +9,7 @@ Deposit once, play endlessly, and earn staking rewards while you compete against
 Enjoy instant withdrawals, seamless gameplay, and a rewarding referral program—all in one innovative Telegram Mini App. 
 Play, Earn, and Grow with Winfinity!
 
-Source Code Link:
+Source Code Link: https://github.com/Kali-Decoder/Winfinity-Lens
 
 Preview Link (Optional):
 
